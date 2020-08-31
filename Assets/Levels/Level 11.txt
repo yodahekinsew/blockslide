@@ -1,0 +1,7 @@
+5,5,1.5
+x x cb x w
+w x x x x
+gr x x x cr
+w x x x x
+x x gb x x
+right,down

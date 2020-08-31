@@ -1,0 +1,21 @@
+{
+    "numGoals": 1,
+    "numCols": 5,
+    "numRows": 1,
+    "blocks": {
+        "colorBlocks": [
+            "(x:-3, y:0, z:0)"
+        ],
+        "goalBlocks": [
+            "(x:3, y:0, z:0)"
+        ],
+        "wallBlocks": [
+        ]
+    },
+    "solution": {
+        "numSwipes": 1,
+        "steps": [
+            "right"
+        ]
+    }
+}

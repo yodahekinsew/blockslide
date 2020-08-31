@@ -1,0 +1,7 @@
+3,5,1.5
+gr w gb
+x w x
+x w x
+x w x
+cr w cb
+up

@@ -1,0 +1,8 @@
+5,6,1.5
+w w gr w w
+x x o w w
+w w x w w
+w w x w x
+w w cr o x
+w w o w w
+right,up,left,up,left,up

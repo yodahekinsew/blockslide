@@ -1,0 +1,3 @@
+col,row
+grid
+solution steps (separated by commas)

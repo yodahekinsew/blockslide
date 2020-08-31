@@ -1,0 +1,7 @@
+5,5,1.5
+w x x x w
+x x x x cr
+x x gr x x
+x w w x x
+x x x x w
+down,left,up,left,down,right
